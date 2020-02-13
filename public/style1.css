@@ -1,0 +1,182 @@
+
+@font-face {
+	font-family: 'Monoton';
+	font-style: normal;
+	font-weight: normal;
+	src: local('Monoton'), url('Monoton-Regular.ttf') format('ttf');
+	}
+
+.first{
+	background-image: url("black-laptop-beside-audio-mixer-set-919734.jpg");
+	background-size: cover;
+	background-position: center center;
+	position: relative;
+	top: 0;
+	bottom: 0;
+	height: 80vh;
+	z-index: -10;
+}
+.icon{
+	font-family: 'Monoton';
+	font-size: 50px;
+	color: #7BFF36;
+}
+
+.welcome{
+	font-size: 8.5vmin;
+	font-weight: bold;
+	padding-top: 10vh;
+	font-family: "Rubik", sans-serif;
+	padding-bottom: 0;
+	color: white;
+}
+.desc{
+	font-size: 4.0vmin;
+	font-weight: bold;
+	font-family: "Rubik", sans-serif;
+	padding-top: 0;
+	color:white;
+}
+.second{
+	padding-top: 2%;
+	padding-bottom: 23%;
+}
+
+.logo2{ 
+	margin-left: auto;
+	margin-right: auto;
+	padding-bottom: 0%;
+	width: 25%;
+	height: 50%;
+	display: block;
+ }
+
+.logo1{ 
+   margin-left: auto;
+   margin-right: auto;
+   width: 25%;
+   display: block;
+   padding-bottom: 20px;
+}
+
+.logo{
+ 	border-radius: 50%; 
+	margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+	height: 225px;
+	width: 225px;   
+	display: block;
+}
+.down{
+	padding-top: 20vh;
+	padding-left: 49%;
+}
+.mouse {
+    height: 30px;
+    width: 22px;
+    border-radius: 10px;
+    transform: none;
+    border: 2px solid white;
+	top: 17;
+}
+.wrap {
+    width: 100%;
+}
+
+.wheel {
+    height: 5px;
+    width: 2px;
+    display: block;
+    margin: 7px auto;
+    background: white;
+    position: relative;
+}
+.btn{
+	background-color: rgb(5, 161, 195);
+	color:white;
+	font-family: "Rubik", sans-serif;
+	font-size: 22px;
+}
+.register1{
+	padding-top: 2%;
+    padding-left: 45%;
+	margin-left: auto;
+	margin-right: auto;
+    display: block;
+
+}
+
+.column {
+  padding-top: 0%;
+  border-right:2px solid rgb(5, 161, 195);
+  text-align: center;
+  font-family: 'Coiny', cursive;
+  font-size: 25px;
+  float: left;
+  width: 100%;
+}
+.column2{
+	padding-top: 2%;
+	border-left:2px solid rgb(5, 161, 195);
+	text-align: center;
+  font-family: 'Coiny', cursive;
+  font-size: 25px;
+	float:right;
+	width: 50%;
+}
+
+/* Clear floats after the columns */
+.row{
+  display: table;
+  clear: both;
+}
+.seclogo{
+	border-radius: 50%;
+	margin-left: auto;
+    margin-right: auto;
+    width: 50%;;
+	height: 250px;
+	width: 250px;
+}
+.space{
+	padding-top: 2%;
+	padding-bottom: 3%;
+}
+.register2{
+	margin-left: auto;
+	margin-right: auto;
+}
+.help{
+	padding-top: 3%;
+	padding-bottom: 45px;
+}
+.last{
+	color:white;
+	font-size: 15px;
+}
+hr{
+	border: 1px solid rgb(5, 161, 195);
+	width:125px;
+
+}
+.left{
+	padding-bottom: 150px;
+	background-color: rgb(28, 29, 30);
+	width:50%;
+	float:left;
+	text-align: center;
+	height:130px;
+}
+.right{
+	padding-bottom: 150px;
+	text-align: center;
+	background-color: rgb(28, 29, 30);
+	width: 50%;
+	float:right;
+	height:130px;
+}
+.about{
+	padding-top: 2%;
+	color:rgb(5, 161, 195);
+}

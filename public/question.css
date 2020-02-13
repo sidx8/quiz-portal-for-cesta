@@ -1,0 +1,55 @@
+/*
+ form {
+    font-size: 4.0vmin;
+    font-weight: bold;
+    padding-top: 10vh;
+    font-family: "Rubik", sans-serif;
+    padding-bottom: 0;
+    color: rgb(5, 161, 195);
+    }
+*/
+.btn-outline-primary{
+    padding-bottom: 20px;
+}
+
+.button{
+    padding: 2%;
+}     
+
+.heading{
+ font-family: 'Monoton';
+ font-size: 50px;
+ color: white;
+ background-color: black;
+ padding-left: 20%;
+ padding-top: 1%;
+ padding-bottom: 1%;
+}
+.contain{
+ padding-left: 20%;
+ padding-top: 5%;
+ /*background-color: #cccccc; */
+}
+ul{
+ list-style: none;
+}
+label{
+font-size: 4.5vmin;
+padding-top: 10vh;
+font-family: "Rubik", sans-serif;
+padding-bottom: 0;
+color: rgb(5, 125, 195);
+}
+p {
+font-size: 3.0vmin;
+padding-top: 10vh;
+font-family: "Rubik", sans-serif;
+padding-bottom: 0;
+color: rgb(5, 125, 195);
+}
+li{
+font-size: 2.5vmin;
+font-weight: bold;
+font-family: "Rubik", sans-serif;
+color: #000000;
+}

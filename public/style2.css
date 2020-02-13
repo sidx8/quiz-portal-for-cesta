@@ -1,0 +1,74 @@
+@import url("https://fonts.googleapis.com/css?family=Acme|Lobster|Patua+One|Rubik|Sniglet");
+
+
+body{
+	background-image: url();
+	background-size: cover;
+	background-position: center center;
+	position: relative;
+	top: 0;
+	bottom: 0;
+	height: 80vh;
+	z-index: -10;
+}
+
+.icon{
+	
+	background-color: black;
+	font-family: 'Monoton', cursive;
+	font-size: 50px;
+	color: rgb(5, 161, 195);
+}
+form{
+	font-size: 4.0vmin;
+	font-weight: bold;
+	padding-top: 10vh;
+	font-family: "Rubik", sans-serif;
+	padding-bottom: 0;
+	color: rgb(5, 161, 195);
+}
+
+.btn{
+	background-color: rgb(5, 161, 195);
+	color:white;
+	font-family: "Rubik", sans-serif;
+	font-size: 22px;
+}
+
+.left{
+	padding-bottom: 140px;
+	background-color: rgb(28, 29, 30);
+	width:50%;
+	float:left;
+	text-align: center;
+	height:130px;
+}
+.right{
+	padding-bottom: 140px;
+	text-align: center;
+	background-color: rgb(28, 29, 30);
+	width: 50%;
+	float:right;
+	height:130px;
+}
+.about{
+	padding-top: 2%;
+	color:rgb(5, 161, 195);
+}
+.last{
+	position: fixed;
+  	left: 0;
+  	bottom: 0;
+  	width: 100%;
+	color: white;
+	font-size: 15px;
+
+}
+hr{
+	border: 1px solid rgb(5, 161, 195);
+	width:125px;
+
+}
+input{
+	background-color: black;
+}
